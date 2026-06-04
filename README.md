@@ -72,7 +72,7 @@ developers can:
 - record decisions
 - declare the intent of the project
 - manage expectations
-- produce proporitionate design solutions
+- produce proportionate design solutions
 
 This document also help users understand what the project is about and if it is
 the sort of compositor they wish to use.
