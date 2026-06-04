@@ -110,12 +110,12 @@ The graph below shows the current status of cat A and B requirements.
   read the respective openbox wiki page.
 
 1. General and Protocols
-2. Configuration [http://openbox.org/wiki/Help:Configuration](http://openbox.org/wiki/Help:Configuration)
-3. Bindings [http://openbox.org/wiki/Help:Bindings](http://openbox.org/wiki/Help:Bindings)
-4. Global Actions [http://openbox.org/wiki/Help:Actions](http://openbox.org/wiki/Help:Actions)
-5. Window Actions [http://openbox.org/wiki/Help:Actions](http://openbox.org/wiki/Help:Actions)
-6. Theme [http://openbox.org/wiki/Help:Themes](http://openbox.org/wiki/Help:Themes)
-7. Menus [http://openbox.org/wiki/Help:Menus](http://openbox.org/wiki/Help:Menus)
+2. Configuration [https://openbox.org/help/Configuration](https://openbox.org/help/Configuration)
+3. Bindings [https://openbox.org/help/Bindings](https://openbox.org/help/Bindings)
+4. Global Actions [https://openbox.org/help/Actions](https://openbox.org/help/Actions)
+5. Window Actions [https://openbox.org/help/Actions](https://openbox.org/help/Actions)
+6. Theme [https://openbox.org/help/Themes](https://openbox.org/help/Themes)
+7. Menus [https://openbox.org/help/Menus](https://openbox.org/help/Menus)
 8. Extra
 
 # Filtered Views
